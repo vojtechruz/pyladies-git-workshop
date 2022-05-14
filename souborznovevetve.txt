@@ -1,1 +1,4 @@
-semn patri nejaky text a tohle je zmena z mainu
+semn patri nejaky text a tohle je zmena z mainu + tohle jsem zmenil z jine vetve
+toto je uplne novy radek
+
+
