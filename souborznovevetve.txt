@@ -1,1 +1,2 @@
-semn patri nejaky text
+semn patri nejaky text a tohle jsem zmenil
+toto je uplne novy radek
